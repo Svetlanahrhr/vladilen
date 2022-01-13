@@ -68,3 +68,6 @@ body {
 .hide {
   display: none;
 }
+.border_top {
+  border-top: 2px solid #ff85e4;
+}
